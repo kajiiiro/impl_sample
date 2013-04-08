@@ -1,5 +1,5 @@
 TARGET   = impl
-SRC      = main.cpp impl.cpp
+SRC      = impl.cpp main.cpp
 OBJ      = impl.o main.o
 
 CXXFLAGS = -Wall -std=c++0x

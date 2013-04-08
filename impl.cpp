@@ -9,8 +9,8 @@ using namespace std;
 class impl_sample::impl
 {
 public:
-	impl();
-	~impl();
+	impl() {}
+	~impl() {}
 	void print()
 	{
 		cout << "impl sample" << endl;
